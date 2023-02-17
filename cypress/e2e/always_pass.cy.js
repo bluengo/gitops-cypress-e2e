@@ -1,5 +1,5 @@
 describe('Dummy PASS test to check the execution', () => {
-  it('Does not do much!', () => {
+  it('Just passes!', () => {
     expect(true).to.equal(true)
   })
 })
