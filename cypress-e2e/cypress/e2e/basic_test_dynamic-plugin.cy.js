@@ -3,3 +3,4 @@ describe('template spec', () => {
     cy.visit(Cypress.env('OCP_CONSOLE') + '/environments')
   })
 })
+
