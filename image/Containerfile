@@ -1,0 +1,4 @@
+FROM docker.io/cypress/included:3.2.0
+
+COPY ../cypress-e2e/ /opt/
+
